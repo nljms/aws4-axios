@@ -54,7 +54,7 @@
     "@aws-sdk/types" "3.4.1"
     tslib "^1.8.0"
 
-"@aws-sdk/client-cloudformation@^3.4.1":
+"@aws-sdk/client-cloudformation@3.4.1":
   version "3.4.1"
   resolved "https://registry.yarnpkg.com/@aws-sdk/client-cloudformation/-/client-cloudformation-3.4.1.tgz#1670960983bc0e0dbad31690fa57d5b0d559f62d"
   integrity sha512-fGQ4AnZK6bdp9ok5k7++yIOoCFslH9QeYT00tHNn2aGi9dDvwSROxfNpmwUh9ZB4X7JFnHLGGrIReNL9gM9PDw==
@@ -1600,10 +1600,10 @@
   resolved "https://registry.yarnpkg.com/@tootallnate/once/-/once-1.1.2.tgz#ccb91445360179a04e7fe6aff78c00ffc1eeaf82"
   integrity sha512-RbzJvlNzmRq5c3O09UipeuXno4tA1FE6ikOjxZK0tuxVv3412l64l5t1W5pj4+rJq9vpkm/kwiR07aZXnsKPxw==
 
-"@types/aws4@^1.5.1":
-  version "1.5.2"
-  resolved "https://registry.yarnpkg.com/@types/aws4/-/aws4-1.5.2.tgz#34e35b4405a619b9205be3e7678963bc7c8a47db"
-  integrity sha512-r8+XOv0BKw3Br0oU6w9cfu21PaQq/5ZeXvMOivNQYJLc9WcPCpEFDaQu72QNEQjYv5Otu48VhjjnbtwrSmk/rg==
+"@types/aws4@1.5.1":
+  version "1.5.1"
+  resolved "https://registry.yarnpkg.com/@types/aws4/-/aws4-1.5.1.tgz#361fadab198a030ab398269183ae3fa86e958ed9"
+  integrity sha512-vtYQ9nLd57YD0aFoE3ICFCGPTRoNplCcH3PitE+YfO9PJeWCAsajMHJrSTCUjqLOEwseAgu5IWbhtWHFeNazhw==
 
 "@types/babel__core@^7.0.0", "@types/babel__core@^7.1.7":
   version "7.1.12"
